@@ -20,7 +20,7 @@ He wasn't born with any superpower. Nor did any accident give him any.</ol><ol> 
         title:'Article Bat2',
         date:'5th Nov',
         heading:'BatPage2',
-        back:'"bgcolor=white;"',
+        back:'https://sh-s7-live-s.legocdn.com/is/image/LEGO/5002423?$PDPDefault$',
         image:'https://sh-s7-live-s.legocdn.com/is/image/LEGO/5002423?$PDPDefault$',
         content:`
         <p>
