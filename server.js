@@ -73,7 +73,7 @@ var htmlTemplate=`
 
     <div class="container">
     
-    <h1>${heading}</h1>
+    <h1><b>${heading}</b></h1>
      <div>
         <a href="/">Home</a>
     </div>
@@ -81,8 +81,8 @@ var htmlTemplate=`
     <div>
         ${date}
     </div>
-    <p>
-        ${content}
+    <p><h3>
+        ${content}</h3>
     </p>
     </div>
 </body>
