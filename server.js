@@ -9,7 +9,7 @@ var articles={
         title:'Article Bat1',
         date:'5th Nov',
         heading:'BatPage',
-        bg:'background="https://i.redditmedia.com/wfwGw4dJQBTzDZrYu0S14ZLkXgirfBgYAUDAmNUd3Cc.jpg?w=960&s=c066d28548e68258a2edae1a954e3ce0"',
+        bg:'style="background-image:url(https://i.redditmedia.com/wfwGw4dJQBTzDZrYu0S14ZLkXgirfBgYAUDAmNUd3Cc.jpg?w=960&s=c066d28548e68258a2edae1a954e3ce0)"',
         image:'none',
         content:`
         <p><li><ol>Batman is not perfect.</ol><ol> He is flawed . He is scared.</ol><ol> And most of all, he is human.
@@ -32,6 +32,8 @@ He is the closest a superhero could be to a common man.</ol></p>`
         title:'Article Bat3',
         date:'5th Nov',
         heading:'BatPage3',
+        bg:'style="background-color:white;"',
+        
          image:'https://www.pixelstalk.net/wp-content/uploads/2015/12/Batman-HD-Wallpaper.png',
         content:`
         <p><li><ol>He's a silent Guardian. </ol><ol>A watchful protector.</ol><ol> <b>A Dark Knight.</b></ol></li>
