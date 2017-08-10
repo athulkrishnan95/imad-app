@@ -64,8 +64,8 @@ var htmlTemplate=`
 <link href="/ui/style.css" rel="stylesheet"/>
 </head>
 
-<body>
-background-color: blue;
+<body background-color: blue;>
+
     <div class="container">
     
     <h1>${heading}</h1>
