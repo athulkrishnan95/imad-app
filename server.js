@@ -34,7 +34,7 @@ He is the closest a superhero could be to a common man.</ol></p>`
         heading:'BatPage3',
         back:'https://www.pixelstalk.net/wp-content/uploads/2015/12/Batman-HD-Wallpaper.png',
         
-         image:'',
+         image:'https://www.pixelstalk.net/wp-content/uploads/2015/12/Batman-HD-Wallpaper.png',
         content:`
         <p><li><ol>He's a silent Guardian. </ol><ol>A watchful protector.</ol><ol> <b>A Dark Knight.</b></ol></li>
 
