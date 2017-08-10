@@ -32,7 +32,7 @@ He is the closest a superhero could be to a common man.</ol></p>`
         title:'Article Bat3',
         date:'5th Nov',
         heading:'BatPage3',
-        back:'https://www.pixelstalk.net/wp-content/uploads/2015/12/Batman-HD-Wallpaper.png',
+        back:'http://1.bp.blogspot.com/-Tcd-s2MNlwk/Vlx7Gh3iuII/AAAAAAAAAiY/kvMcLNkXRUo/s1600/vlcsnap-2015-11-29-19h34m14s400.png',
         
          image:'https://www.pixelstalk.net/wp-content/uploads/2015/12/Batman-HD-Wallpaper.png',
         content:`
