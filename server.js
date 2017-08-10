@@ -73,15 +73,15 @@ var htmlTemplate=`
     <div class="container">
     
     <h1><b>${heading}</b></h1>
-     <div>
+     <h4><div>
         <a href="/">Home</a>
     </div>
     
     <div>
         ${date}
-    </div>
-    <p><h3>
-        ${content}</h3>
+    </div></h4>
+    <p><h2>
+        ${content}</h2>
     </p>
     </div>
 </body>
