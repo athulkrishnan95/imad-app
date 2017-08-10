@@ -19,6 +19,46 @@ app.get('/article-three', function (req, res) {
  res.sendFile(path.join(__dirname, 'ui', 'article-three.html'));    
 });
 
+
+function createTemplate(data){
+    
+var title=data.title;
+var date=data.date;
+var heading=data.heading;
+var content=data.content;
+var htmlTemplate=`
+
+<html>
+<head><title>Article Bat1</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link href="/ui/style.css" rel="stylesheet"/>
+</head>
+
+<body>
+    <div class="container">
+    <h1>${heading}</h1>
+     <div>
+        <a href="/">Home</a>
+    </div>
+    
+    <div>
+        ${date}
+    </div>
+    <p>
+        ${content}
+    </p>
+    </div>
+</body>
+</html>`
+;
+}
+
+
+
+
+
+
+
 app.get('/ui/style.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'style.css'));
 });
