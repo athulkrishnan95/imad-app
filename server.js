@@ -32,7 +32,7 @@ He is the closest a superhero could be to a common man.</ol></p>`
         title:'Article Bat3',
         date:'5th Nov',
         heading:'BatPage3',
-        back:'http://www.jasoncollin.org/wp-content/uploads/2012/05-MAY/the-dark-knight-2008-movie-screenshot-motorcycle-ending.png',
+        back:'http://www.helpingwritersbecomeauthors.com/wp-content/uploads/2015/10/Dark-Knight-Last-Scene.png',
         
          image:'https://www.pixelstalk.net/wp-content/uploads/2015/12/Batman-HD-Wallpaper.png',
         content:`
