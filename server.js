@@ -60,6 +60,7 @@ var date=data.date;
 var heading=data.heading;
 var image=data.image;
 var content=data.content;
+var back=data.back;
 var htmlTemplate=`
 
 <html>
