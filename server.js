@@ -4,6 +4,36 @@ var path = require('path');
 
 var app = express();
 app.use(morgan('combined'));
+var articles={
+     articleOne:{
+        title:'Article Bat1',
+        date:'5th Nov',
+        heading:'BatPage',
+        content:`
+        <p>
+        this is a BaTPAGE</p>`
+    },
+        
+     articleTwo:{
+        title:'Article Bat2',
+        date:'5th Nov',
+        heading:'BatPage2',
+        content:`
+        <p>
+        this is another BaTPAGE</p>`
+    },
+        
+     articleThree:{
+        title:'Article Bat3',
+        date:'5th Nov',
+        heading:'BatPage3',
+        content:`
+        <p>
+        too many BaTPAGEs</p>`
+    }
+    
+};
+
 
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
