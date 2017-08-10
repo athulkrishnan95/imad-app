@@ -9,7 +9,7 @@ var articles={
         title:'Article Bat1',
         date:'5th Nov',
         heading:'BatPage',
-        bg:'background="https://i.redditmedia.com/wfwGw4dJQBTzDZrYu0S14ZLkXgirfBgYAUDAmNUd3Cc.jpg?w=960&s=c066d28548e68258a2edae1a954e3ce0"',
+        back:'https://i.redditmedia.com/wfwGw4dJQBTzDZrYu0S14ZLkXgirfBgYAUDAmNUd3Cc.jpg?w=960&s=c066d28548e68258a2edae1a954e3ce0',
         image:'none',
         content:`
         <p><li><ol>Batman is not perfect.</ol><ol> He is flawed . He is scared.</ol><ol> And most of all, he is human.
@@ -20,7 +20,7 @@ He wasn't born with any superpower. Nor did any accident give him any.</ol><ol> 
         title:'Article Bat2',
         date:'5th Nov',
         heading:'BatPage2',
-        bg:'"bgcolor=white;"',
+        back:'"bgcolor=white;"',
         image:'https://sh-s7-live-s.legocdn.com/is/image/LEGO/5002423?$PDPDefault$',
         content:`
         <p>
@@ -68,7 +68,7 @@ var htmlTemplate=`
 <link href="/ui/style.css" rel="stylesheet"/>
 </head>
 
-<body background="https://i.redditmedia.com/wfwGw4dJQBTzDZrYu0S14ZLkXgirfBgYAUDAmNUd3Cc.jpg?w=960&s=c066d28548e68258a2edae1a954e3ce0">
+<body background="${back}">
 
     <div class="container">
     
