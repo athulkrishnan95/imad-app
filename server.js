@@ -64,7 +64,7 @@ var htmlTemplate=`
      <div>
         <a href="/">Home</a>
     </div>
-    <div><img src="https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj3paC5s8zVAhVIKo8KHZEAC0wQjRwIBw&url=https%3A%2F%2Fshop.lego.com%2Fen-US%2FLEGO-DC-Universe-Super-Heroes-Batman-Minifigure-Clock-5002423&psig=AFQjCNEsCW6b7YIw6N0VHR5upCpI3aVUjg&ust=1502445376416848" class="img-medium"/>
+    <div><img src="https://sh-s7-live-s.legocdn.com/is/image/LEGO/5002423?$PDPDefault$" class="img-medium"/>
     <div>
         ${date}
     </div>
