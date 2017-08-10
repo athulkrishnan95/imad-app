@@ -68,7 +68,7 @@ var htmlTemplate=`
 <link href="/ui/style.css" rel="stylesheet"/>
 </head>
 
-<body ${bg}>
+<body background="https://i.redditmedia.com/wfwGw4dJQBTzDZrYu0S14ZLkXgirfBgYAUDAmNUd3Cc.jpg?w=960&s=c066d28548e68258a2edae1a954e3ce0">
 
     <div class="container">
     
