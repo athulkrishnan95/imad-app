@@ -69,7 +69,7 @@ var htmlTemplate=`
 <link href="/ui/style.css" rel="stylesheet"/>
 </head>
 
-<body background="${back}" width: 10px; height:10px>
+<body background="${back}">
 
     <div class="container">
     
