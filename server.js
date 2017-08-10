@@ -70,7 +70,7 @@ var htmlTemplate=`
      <div>
         <a href="/">Home</a>
     </div>
-    <div><img src="${image}" class="img-medium"/>
+    <div><img src="${image}" class="img-medium" style="float:right;width:42px;height:42px;"/>
     <div>
         ${date}
     </div>
