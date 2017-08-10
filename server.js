@@ -8,7 +8,7 @@ var articles={
      'article-one':{
         title:'Article Bat1',
         date:'5th Nov',
-        heading:'BatPage',
+        heading:'BatPage1',
         back:'https://i.redditmedia.com/wfwGw4dJQBTzDZrYu0S14ZLkXgirfBgYAUDAmNUd3Cc.jpg?w=960&s=c066d28548e68258a2edae1a954e3ce0',
         image:'none',
         content:`
