@@ -4,6 +4,6 @@ window.onload = function(){
     var heading=document.getElementById('heading');
 heading.onclick=function(){mouseOver()};
 function mouseOver(){
-    alert('hi');
+    heading.style.color="blue";
 }
 };
