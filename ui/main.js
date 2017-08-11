@@ -10,11 +10,11 @@ heading.onmouseout=function(){
 };
 
 heading.onclick=function(){
- var interval=setInterval(blink,100);
+ var interval=setInterval(blink,1000);
 };
 var marginLeft=0;
 function large(){
-heading.style.fontSize="large";
+heading.style.fontSize="x-large";
     
 }
 
