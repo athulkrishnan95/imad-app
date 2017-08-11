@@ -10,7 +10,7 @@ heading.onmouseout=function(){
 };
 
 heading.onclick=function(){
- heading.style.fontSize = "small";
+ heading.style.fontSize = "medium";
  document.getElementById('content').style.fontSize="xx-large";
 };
 
