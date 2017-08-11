@@ -10,23 +10,20 @@ heading.onmouseout=function(){
 };
 
 heading.onclick=function(){
- var interval=setInterval(blink,5000);
+ heading.style.fontSize = "small";
+ document.getElementById('content').style.fontSize="x-large";
 };
-var marginLeft=0;
-function large(){
-heading.style.fontSize="x-large";
-    
-}
 
-function blink(){
-    setTimeout(large, 5000);
-   heading.style.fontSize = "small";
+    
+
+  
    
     
    /* marginLeft=marginLeft+10;
     heading.style.marginLeft=marginLeft+'px';*/
-}
+
 function mouseOver(){
     heading.style.color="yellow";
 }
+
 };
