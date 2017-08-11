@@ -19,8 +19,9 @@ heading.style.fontSize="x-large";
 }
 
 function blink(){
-   heading.style.fontSize = "small";
     setTimeout(large, 1000);
+   heading.style.fontSize = "small";
+   
     
    /* marginLeft=marginLeft+10;
     heading.style.marginLeft=marginLeft+'px';*/
