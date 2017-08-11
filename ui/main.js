@@ -14,11 +14,11 @@ heading.onclick=function(){
 };
 var marginLeft=0;
 function blink(){
-   /* heading.style.fontSize = "large";
+   heading.style.fontSize = "small";
     setTimeout(function() {}, 1000);
-    heading.style.fontSize="small";*/
-    marginLeft=marginLeft+10;
-    heading.style.marginLeft=marginLeft+'px';
+    heading.style.fontSize="large";
+   /* marginLeft=marginLeft+10;
+    heading.style.marginLeft=marginLeft+'px';*/
 }
 function mouseOver(){
     heading.style.color="yellow";
