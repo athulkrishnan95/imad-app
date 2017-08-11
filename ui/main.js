@@ -10,7 +10,7 @@ heading.onmouseout=function(){
 };
 
 heading.onclick=function(){
- var interval=setInterval(blink,1000);
+ var interval=setInterval(blink,5000);
 };
 var marginLeft=0;
 function large(){
@@ -19,7 +19,7 @@ heading.style.fontSize="x-large";
 }
 
 function blink(){
-    setTimeout(large, 1000);
+    setTimeout(large, 5000);
    heading.style.fontSize = "small";
    
     
