@@ -13,10 +13,15 @@ heading.onclick=function(){
  var interval=setInterval(blink,100);
 };
 var marginLeft=0;
+function large(){
+heading.style.fontSize="large";
+    
+}
+
 function blink(){
    heading.style.fontSize = "small";
-    setTimeout(function() {}, 1000);
-    heading.style.fontSize="large";
+    setTimeout(large(), 1000);
+    
    /* marginLeft=marginLeft+10;
     heading.style.marginLeft=marginLeft+'px';*/
 }
