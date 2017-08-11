@@ -11,7 +11,7 @@ heading.onmouseout=function(){
 
 heading.onclick=function(){
  heading.style.fontSize = "small";
- document.getElementById('content').style.fontSize="x-large";
+ document.getElementById('content').style.fontSize="xx-large";
 };
 
     
