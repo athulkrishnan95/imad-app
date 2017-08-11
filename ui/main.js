@@ -15,7 +15,7 @@ heading.onclick=function(){
 function blink(){
     heading.style.fontSize = "large";
     setTimeout(function() {}, 1000);
-    heading.style.fontSize="x";
+    heading.style.fontSize="small";
 }
 function mouseOver(){
     heading.style.color="yellow";
