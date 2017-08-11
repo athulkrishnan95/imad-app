@@ -10,7 +10,7 @@ heading.onmouseout=function(){
 };
 
 heading.onclick=function(){
- blink();
+ var interval=setInterval(blink,1000);
 };
 function blink(){
     heading.style.fontSize = "large";
