@@ -77,7 +77,7 @@ var htmlTemplate=`
     
     <h1 ><b>${heading}</b></h1>
      <h4><div>
-        <a href="/">Home</a>
+        <a href="/">Back to Home Page</a>
     </div>
     
     <div>
