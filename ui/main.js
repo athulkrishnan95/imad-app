@@ -14,9 +14,6 @@ heading.onclick=function(){
  document.getElementById('content').style.fontSize="xx-large";
 };
 
-    
-
-  
    
     
    /* marginLeft=marginLeft+10;
