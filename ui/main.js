@@ -20,7 +20,7 @@ heading.style.fontSize="large";
 
 function blink(){
    heading.style.fontSize = "small";
-    setTimeout(large(), 1000);
+    setTimeout(large, 1000);
     
    /* marginLeft=marginLeft+10;
     heading.style.marginLeft=marginLeft+'px';*/
