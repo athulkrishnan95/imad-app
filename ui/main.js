@@ -15,9 +15,14 @@ heading.onclick=function(){
  document.getElementById('content').style.fontSize="xx-large";
  document.getElementById('content').style.display = 'inline';
 };
-
-   
+var counter=0;
+var button=document.getElementById('counter');
+button.onclick=function(){
+    counter=counter+1;
     
+}
+  var count=document.getElementById('count');
+count.innerHTML=counter.toString();
    /* marginLeft=marginLeft+10;
     heading.style.marginLeft=marginLeft+'px';*/
 
