@@ -19,10 +19,11 @@ var counter=0;
 var button=document.getElementById('counter');
 button.onclick=function(){
     counter=counter+1;
+var count=document.getElementById('count');
+count.innerHTML=counter.toString();
     
 }
-  var count=document.getElementById('count');
-count.innerHTML=counter.toString();
+  
    /* marginLeft=marginLeft+10;
     heading.style.marginLeft=marginLeft+'px';*/
 
